@@ -8,19 +8,24 @@ This repository is the official implementation of the TGRS 2026 paper "[Illumina
 
 ## ALMIN
 
-### ALMIN model architecture.
+### Monochrome Advantage:
+<p align="center">
+  <img src="photo/Monochrome Advantage.png" width="90%" alt="Monochrome Advantage">
+</p>
+
+### ALMIN Model Architecture:
 <p align="center">
   <img src="photo/model.png" width="90%" alt="ALMIN Model Architecture">
 </p>
 
-### Quantitative experiment
+### Quantitative Experiment:
 <p align="center">
-  <img src="photo/show.png" width="95%" alt=" Quantitative experiment">
+  <img src="photo/show.png" width="95%" alt=" Quantitative Experiment">
 </p>
 
-### Qualitative experiment
+### Qualitative Experiment:
 <p align="center">
-  <img src="photo/Result.png" width="95%" alt="Qualitative experiment">
+  <img src="photo/Result.png" width="95%" alt="Qualitative Experiment">
 </p>
 
 ## Citation
